@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Myapplication<Springbootcrudoperation>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.ducat.springboot.rest.Myapplication",
+            "projectName": "Springbootcrudoperation",
+            "args": ""
+        }
+    ]
+}
